@@ -1,0 +1,18 @@
+html {
+    font-family: 'Montserrat', sans-serif
+}
+
+
+body {
+    background-color: #131415;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 14px;
+}
